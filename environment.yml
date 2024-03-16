@@ -1,0 +1,20 @@
+name: stats
+channels:
+  - conda-forge  
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - pandas
+  - statsmodels
+  - matplotlib
+  - plotly
+  - pystan
+  - fbprophet
+  - gluonts
+  - pymannkendall
+  - seaborn
+  - backports.zoneinfo
+
