@@ -1,7 +1,6 @@
 name: stats
 channels:
-  - conda-forge  
-  - anaconda
+  - conda-forge
 dependencies:
   - python
   - numpy
